@@ -3,6 +3,7 @@
 <body>
   
 <?php
+
 // This is a PHP comment line
 
 /*
@@ -10,7 +11,8 @@ This is a PHP
 comment block
 */
 
-echo "Hello World!";
+echo "Start PHP!";
+echo "learn PHP";
 ?>
   
 </body>
