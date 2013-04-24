@@ -8,7 +8,7 @@ $total=$x+$y;
 return $total;
 }
 
-echo "5 + 16 = " . add(5,16);
+echo $_GET["x"] ."+". $_GET["y"] ."=" . add($_GET["x"],$_GET["y"]);
 ?>
 
 </body>
